@@ -1,4 +1,4 @@
-# rpi-iot# Practical Exercise 7: Environmental Data Collection and TensorFlow Object Detection in Real Time with Raspberry Pi
+# Environmental Data Collection and TensorFlow Object Detection in Real Time with Raspberry Pi
 
 **Meeting:** Wednesdays, 2:30 - 5:20, SMI 109
 
